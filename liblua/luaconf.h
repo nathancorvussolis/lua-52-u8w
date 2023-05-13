@@ -11,7 +11,6 @@
 #include <limits.h>
 #include <stddef.h>
 
-#include "lu8w.h"
 
 /*
 ** ==================================================================
@@ -550,7 +549,7 @@
 ** without modifying the main part of the file.
 */
 
-
+#include "lu8w.h"
 
 #endif
 
